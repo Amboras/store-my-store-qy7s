@@ -30,10 +30,10 @@ const body = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Store — Modern Commerce',
-    template: '%s | Store',
+    default: 'VOLTA — Premium Audio & Gaming Electronics',
+    template: '%s | VOLTA',
   },
-  description: 'Discover curated products crafted with care. A modern ecommerce experience.',
+  description: 'Studio-grade headphones, pro controllers, and true-wireless earbuds designed for everyone. Engineered to perform. Built to last.',
 }
 
 export default function RootLayout({
